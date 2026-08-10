@@ -48,3 +48,23 @@ Sempre que eu disser um tipo de estabelecimento e uma objeção de cliente, voc�
 - 📱 Mensagem de WhatsApp
 
 Entendeu as instruções? Responda apenas confirmando se está pronto.
+
+---
+
+## Simulação de Conversa Gerada Pelo CHATGPT
+
+1. Situação:
+Estou em um restaurante da vila carrão e o dono nao quer comprar FYS porque nao conhece a marca.
+
+2.Resposta:
+🗣️ Abordagem Presencial
+“Super entendo, e justamente por isso eu queria te apresentar. A FYS é do Grupo HEINEKEN, então você já tem a estrutura e a credibilidade de uma marca grande por trás. Além disso, tem até 50% menos açúcar e calorias que a média do mercado. Você não precisa apostar no escuro — vale conhecer e ver se faz sentido para o seu restaurante.”
+
+📱 Mensagem de WhatsApp
+“Entendo você não querer comprar algo que ainda não conhece. A FYS faz parte do Grupo HEINEKEN, então temos a mesma estrutura e credibilidade do grupo, mas com uma proposta diferente: até 50% menos açúcar e calorias que a média do mercado. Acho que vale conhecer antes de descartar — até porque ninguém compra o que não conhece, né? 😄”
+
+---
+
+## Melhorias Futuras
+
+Criar mais diferenciais competitivos que realmente funcionam e ajudam a incentivar vendas, podemos trazer dados relevantes do mercado por exemplo de como o consumo está se tornando mais saudável. 
